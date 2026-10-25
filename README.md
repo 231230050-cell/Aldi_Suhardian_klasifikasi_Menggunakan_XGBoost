@@ -1,0 +1,2 @@
+# Aldi_Suhardian_klasifikasi_Menggunakan_XGBoost
+Klasifikasi Data Menggunakan XGBoost 
